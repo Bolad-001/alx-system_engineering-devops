@@ -1,1 +1,1 @@
-All tasks on shell basics at ALX SE program.
+All Tasks on Shell Basics at ALX SE program
