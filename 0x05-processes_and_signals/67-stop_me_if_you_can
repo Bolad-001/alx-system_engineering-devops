@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Script to stop 4 intifinty and beyond
+
+pkill -f 7-highlander
